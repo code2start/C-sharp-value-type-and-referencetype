@@ -1,0 +1,11 @@
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.exe
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.deps.json
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.runtimeconfig.json
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.runtimeconfig.dev.json
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.dll
+C:\csharp\en\valuetypeandreferencetype\bin\Debug\netcoreapp3.0\valuetypeandreferencetype.pdb
+C:\csharp\en\valuetypeandreferencetype\obj\Debug\netcoreapp3.0\valuetypeandreferencetype.csprojAssemblyReference.cache
+C:\csharp\en\valuetypeandreferencetype\obj\Debug\netcoreapp3.0\valuetypeandreferencetype.AssemblyInfoInputs.cache
+C:\csharp\en\valuetypeandreferencetype\obj\Debug\netcoreapp3.0\valuetypeandreferencetype.AssemblyInfo.cs
+C:\csharp\en\valuetypeandreferencetype\obj\Debug\netcoreapp3.0\valuetypeandreferencetype.dll
+C:\csharp\en\valuetypeandreferencetype\obj\Debug\netcoreapp3.0\valuetypeandreferencetype.pdb
